@@ -1,3 +1,7 @@
+// All the fun fetch stuff!
+// You can save an entry, get all the entries created, and delete an entry. I am assuming that "editEntry" would
+// go here if I wanted ti implement that at some stage.
+
 const APIManager = Object.create(null, {
     saveEntry: {
         value: (entry) => {
