@@ -15,6 +15,7 @@ I wanted to use a Google Font but I could not seem to get it to work even though
 in my CSS. I know there's a way to do it, but because we could not ask for help, I left it alone. I Googled the issue for sure! However, I was unable to get the font up and running.
 
 ## Gimp
+![alt text](https://github.com/nss-day-cohort-27/browserify-individual-assignment-kellycook301/blob/master/gimp2.png)
 Gimp is a free photo-editing program. I have used it before on personal music and arts projects before. To get around the 
 font issue, I created a "logo" in Gimp and was able to make a transparent layer so that that "logo" appeared over the background image without obstructing anything.
 
