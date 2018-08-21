@@ -2,7 +2,7 @@
 
 This was a small individual project and I had a lot of fun doing it.
 I started off rocky because my setup was kinda wonky. But once I was up and running things went fairly smoothly.
-It was similar to the individual modules we had to do for Nutshell which was cool. There was a lot of crossover in functionality. I did not incorporate any sort of login. One thing I wanted to do was incorporate some Bootstrap to make it look a little more appealing. So the forms I did in the Nutshell project were altered to be Bootstrap forms and cards.
+It was similar to the individual modules we had to do for Nutshell, which was cool. There was a lot of crossover in functionality. I did not incorporate any sort of login. One thing I wanted to do was incorporate some Bootstrap to make it look a little more appealing. So the forms I did in the Nutshell project were altered to be Bootstrap forms and cards.
 
 ## Bootstrap
 Some Bootstrap stuff was not very cooperative with me, and that's because I know I don't know EVERYTHING. So I did some stuff 
