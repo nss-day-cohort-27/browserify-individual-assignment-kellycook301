@@ -4,8 +4,6 @@
 // post needs to be deleted, it makes the process easier.
 // I wanted to try adding an edit feature, but I wanted to meet MVP and try bootstrap styling a bit.
 // (EDIT) I might try it since we have time today after capstone presentations (8/21/18 8:55am)
-// I will also admit that I was a little by adding the p tags to space things out when I could have styled them.
-// OH WELL.
 
 const createEvent = (country, city, state, id) => {
     return `
@@ -13,7 +11,7 @@ const createEvent = (country, city, state, id) => {
     <div class="card">
     <h5 class="card-header">I Have Been To...</h5>
     <div class="card-body">
-        <section>
+    <section>
         ${country}
          <p></p>
         </section>
@@ -25,7 +23,7 @@ const createEvent = (country, city, state, id) => {
         ${state}
         <p></p>
         </section>
-        <button id="deleteEventButton--${id}" class="entry__delete">Delete Entry</button>  
+        <button id="deleteEventButton--${id}" class="entry__delete">Delete Entry</button>
     </div>
   </div>
 

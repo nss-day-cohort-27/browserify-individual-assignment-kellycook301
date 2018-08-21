@@ -27,7 +27,7 @@ const APIManager = Object.create(null, {
             })
                 .then(r => r.json())
         }
-    }
+    },
 })
 
 module.exports = APIManager
