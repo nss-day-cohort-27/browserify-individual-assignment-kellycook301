@@ -10,7 +10,7 @@ to work my way around my problems. Some issues were solved in CSS after the data
 
 ## Fonts
 I wanted to use a Google Font but I could not seem to get it to work even though I included the href in html and targeted it
-in my CSS. I know there's a way to do it, but because we could not ask for help, I left it alone. I Googled the issue for sure! But I was unable to get the font up and running.
+in my CSS. I know there's a way to do it, but because we could not ask for help, I left it alone. I Googled the issue for sure! However, I was unable to get the font up and running.
 
 ## Gimp
 Gimp is a free photo-editing program. I have used it before on personal music and arts projects before. To get around the 
