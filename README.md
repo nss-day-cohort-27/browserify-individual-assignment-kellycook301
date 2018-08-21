@@ -1,5 +1,7 @@
 # browserify-individual-assignment-kellycook301
 
+✈️
+
 This was a small individual project and I had a lot of fun doing it.
 I started off rocky because my setup was kinda wonky. But once I was up and running things went fairly smoothly.
 It was similar to the individual modules we had to do for Nutshell, which was cool. There was a lot of crossover in functionality. I did not incorporate any sort of login. One thing I wanted to do was incorporate some Bootstrap to make it look a little more appealing. So the forms I did in the Nutshell project were altered to be Bootstrap forms and cards.
@@ -31,6 +33,8 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 >
 }
+
+It's the Canberra airport btw. Cool.
 
 ## ACTUALLY FUNCTIONALITY
 Ok so the project is super simple. A form asks you where you've been and you can enter a country, a city, and a state or province (since not every country has states). Once you click submit an entry will be generated below with that information. I like that I put a comma after ${city} in my placesCreate module. Fancy. You can then delete the entry. I would liked to implement an edit function. Next time!
