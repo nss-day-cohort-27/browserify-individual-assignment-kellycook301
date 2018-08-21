@@ -21,7 +21,8 @@ font issue, I created a "logo" in Gimp and was able to make a transparent layer 
 ## Background Image
 During one of Cohort 26's capstone projects I noticed that someone had a static image as a background. I knew that I didn't want to have the same background image repeat as more entries were being printed to the DOM. I found something on stackoverflow that someone posted something that would make the target image static.
 
->body {
+>
+body {
 >
 background-image: url("airport.jpg");
 >
