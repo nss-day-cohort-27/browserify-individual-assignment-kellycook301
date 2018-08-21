@@ -5,7 +5,7 @@
 // I wanted to try adding an edit feature, but I wanted to meet MVP and try bootstrap styling a bit.
 // (EDIT) I might try it since we have time today after capstone presentations (8/21/18 8:55am)
 
-const createEvent = (country, city, state, id) => {
+const createEntry = (country, city, state, id) => {
     return `
     <p></p>
     <div class="card">
@@ -31,4 +31,4 @@ const createEvent = (country, city, state, id) => {
 }
 
 // exporting so other modules may use this one.
-module.exports = createEvent
+module.exports = createEntry
