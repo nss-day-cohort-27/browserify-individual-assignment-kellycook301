@@ -21,11 +21,11 @@ font issue, I created a "logo" in Gimp and was able to make a transparent layer 
 ## Background Image
 During one of Cohort 26's capstone projects I noticed that someone had a static image as a background. I knew that I didn't want to have the same background image repeat as more entries were being printed to the DOM. I found something on stackoverflow that someone posted something that would make the target image static.
 
-body { --
-    background-image: url("airport.jpg"); --
-    background-repeat: no-repeat; --
-    background-attachment: fixed; --
-} --
+>body {
+>    background-image: url("airport.jpg");
+>    background-repeat: no-repeat;
+>    background-attachment: fixed;
+>}
 
 ## Fin
 It was a fun project. I would have liked to get an edit feature implemented, but I think I would have needed some guidance. I was trying to build off of a Nutshell module, but realized it might have been a little bit more than what I wanted to get into for the end of the day. Capstone project for sure!
