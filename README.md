@@ -39,7 +39,7 @@ background-attachment: fixed;
 It's the Canberra, Australia airport btw. Cool.
 
 ## ACTUALLY FUNCTIONALITY
-Ok so the project is super simple. A form asks you where you've been and you can enter a country, a city, and a state or province (since not every country has states). Once you click submit an entry will be generated below with that information. I like that I put a comma after ${city} in my placesCreate module. Fancy. You can then delete the entry. I would liked to implement an edit function. Next time!
+Ok, so the project is super simple. A form asks you where you've been and you can enter a country, a city, and a state or province (since not every country has states). Once you click submit an entry will be generated below with that information. I like that I put a comma after ${city} in my placesCreate module. Fancy. You can then delete the entry. I would liked to implement an edit function. Next time!
 
 ## Fin
 It was a fun project. I would have liked to get an edit feature implemented, but I think I would have needed some guidance. I was trying to build off of a Nutshell module, but realized it might have been a little bit more than what I wanted to get into for the end of the day. Capstone project for sure!
