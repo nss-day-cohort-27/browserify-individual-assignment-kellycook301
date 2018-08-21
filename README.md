@@ -16,6 +16,7 @@ in my CSS. I know there's a way to do it, but because we could not ask for help,
 
 ## Gimp
 ![alt text](https://github.com/nss-day-cohort-27/browserify-individual-assignment-kellycook301/blob/master/gimp2.png)
+>
 Gimp is a free photo-editing program. I have used it before on personal music and arts projects before. To get around the 
 font issue, I created a "logo" in Gimp and was able to make a transparent layer so that that "logo" appeared over the background image without obstructing anything.
 
