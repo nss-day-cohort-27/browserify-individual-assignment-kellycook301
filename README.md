@@ -24,11 +24,11 @@ During one of Cohort 26's capstone projects I noticed that someone had a static 
 >
 body {
 >
-background-image: url("airport.jpg");
+     background-image: url("airport.jpg");
 >
-background-repeat: no-repeat;
+     background-repeat: no-repeat;
 >
-background-attachment: fixed;
+     background-attachment: fixed;
 >
 }
 
